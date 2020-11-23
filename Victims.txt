@@ -1,0 +1,12 @@
+Man,Madrid,60,p5.jpg
+Carl,Cluj-Napoca,80,p9.jpg
+Milo,Bucuresti,80,p10.jpg
+Terek,Paris,90,p11.jpg
+Rayk,Monte Carlo,20,p13.jpg
+Flora,Vatican,70,p14.jpg
+Dana,Moscova,50,p15.jpg
+Mara,Moscova,40,p16.jpg
+Candence,Iasi,40,p17.jpg
+Jhon,Madrid,100,p18.jpg
+Jane Doe,Vienna,80,p7.jpg
+Jane Do,Amsterdam,80,p8.jpg

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="VictimDesigner">
+    <file>Resources/coroner.png</file>
+  </qresource>
+</RCC>
